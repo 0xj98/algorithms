@@ -1,0 +1,9 @@
+*
+!*/
+!*.cpp
+!*.org
+!*.md
+!*.png
+!*.gitignore
+test.cpp
+tempCodeRunnerFile.cpp
